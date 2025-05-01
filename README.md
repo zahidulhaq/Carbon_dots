@@ -7,7 +7,6 @@ This application predicts the color outcome of chemical reactions using multiple
 ```
 ColorPredictionApp/
 ├── data/           # Contains the dataset (github.csv)
-├── models/         # Contains trained models and encoder
 ├── templates/      # HTML templates
 ├── static/         # Static files (CSS, JS)
 └── src/            # Source code
