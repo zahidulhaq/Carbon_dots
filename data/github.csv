@@ -421,7 +421,7 @@
 420,https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01007#,blue,0.9,0,1,0,0,0,0,0,0,0,microwave,water,neutral,473.15,2,filter,NA,NA,NA,472
 421,https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01007#,blue,0.1,0,1,0,0,0,0,0,0,0,hydrothermal treatment,water,neutral,413.15,120,none,NA,NA,NA,440
 422,https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01007#,blue,0.7,1,0,0.2,0,0,0,0,0,0,microwave-assisted hydrothermal,water,acidic,413.15,120,none,NA,NA,NA,440
-423,https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01007#,blue0.625,0,0.625,0,0,1,0,0,0,0,microwave-assisted hydrothermal,water,basic,453.15,180,centrifuge,NA,NA,NA,452
+423,https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01007#,blue,0.625,0,0.625,0,0,1,0,0,0,0,microwave-assisted hydrothermal,water,basic,453.15,180,centrifuge,NA,NA,NA,452
 424,https://doi.org/10.1002/adma.201704740,red,0.75,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,200,720,centrifuge,NA,NA,NA,
 425,https://doi.org/10.1002/adma.201704741,red,0.8,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,200,720,centrifuge,NA,NA,NA,
 426,https://doi.org/10.1002/adma.201704742,red,0.85,1,0,0,0,0,0,0,0,0,solvothermal treatment,DMF,neutral,200,720,centrifuge,NA,NA,NA,
