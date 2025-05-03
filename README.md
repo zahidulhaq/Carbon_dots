@@ -8,10 +8,11 @@ This application predicts the color outcome of chemical reactions using multiple
 ColorPredictionApp/
 ├── data/           # Contains the dataset (github.csv)
 ├── templates/      # HTML templates
+├── Feature_correlations/      # The ipynb file for model training and saving
 ├── static/         # Static files (CSS, JS)
 └── src/            # Source code
     ├── app.py      # Flask application
-    └── train_models.py  # Model training script
+    
 ```
 
 ## Setup Instructions
@@ -39,10 +40,11 @@ pip install -r requirements.txt
 4. Place your dataset:
 - Copy `github.csv` to the `data/` directory
 
-5. Train the models (optional):
+5. Train the models:
 ```bash
-cd src
-python train_models.py
+Feature_correlations.ipynb
+
+\\Save the models in pkl format
 ```
 
 ## Running the Application
